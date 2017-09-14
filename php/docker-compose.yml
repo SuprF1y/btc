@@ -1,0 +1,10 @@
+version: '3'
+services:
+  php:
+      image: bigtincan_php
+      container_name: bigtincan_php
+      build: ./
+      volumes:
+        - .:/home/bigtincan/app
+        - ./_shared/.composer:/home/bigtincan/.composer
+      working_dir: /home/bigtincan/app
