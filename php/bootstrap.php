@@ -8,6 +8,8 @@
 // b1.1
 // c2.2
 // c3.3
+// working 1
+
 // load variables from .env into environment
 $env = new Dotenv\Dotenv(__DIR__);
 $env->load();
