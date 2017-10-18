@@ -7,6 +7,7 @@
 
 // b1.1
 // c2.2
+// b1.2
 // c3.3
 // load variables from .env into environment
 $env = new Dotenv\Dotenv(__DIR__);
