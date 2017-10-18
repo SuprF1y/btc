@@ -5,6 +5,8 @@
  * Time: 10:56 AM
  */
 
+// b1.1
+
 // load variables from .env into environment
 $env = new Dotenv\Dotenv(__DIR__);
 $env->load();
