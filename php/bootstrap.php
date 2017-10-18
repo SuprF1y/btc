@@ -10,6 +10,7 @@
 // b1.2
 // c3.3
 // canonical 1
+// canonical 2
 
 // load variables from .env into environment
 $env = new Dotenv\Dotenv(__DIR__);
