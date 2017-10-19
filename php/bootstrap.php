@@ -5,9 +5,6 @@
  * Time: 10:56 AM
  */
 
-// b1.1
-// c2.2
-// c3.3
 // canonical 1
 // canonical 2
 
